@@ -1,0 +1,9 @@
+[
+  {
+    "problem": "严重翻滚",
+    "good_params": {
+      "servo_left_mid": 1500,
+      "servo_right_mid": 1500
+    }
+  }
+]
